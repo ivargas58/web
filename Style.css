@@ -1,0 +1,28 @@
+.contenedor{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    margin-top: 0px;
+    margin: 15%;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+}
+label{
+    font-size: 25px;
+}
+h1 {
+    font-size: 35px;
+}
+footer{
+    text-align: center;
+}
+.r{
+    background-color: gray;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+button{
+    color: whitesmoke;
+    background-color: blue;
+    border-radius: 3px;
+}
